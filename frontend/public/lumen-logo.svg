@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LuMen logo">
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#11110f"/>
+  <path d="M25 20h8v20h12v6H25V20Z" fill="#f7f3ea"/>
+  <path d="M19 17h26" stroke="#3f7553" stroke-width="2" stroke-linecap="round" opacity=".85"/>
+</svg>

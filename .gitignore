@@ -1,0 +1,21 @@
+# env / secrets
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# python
+.venv/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
